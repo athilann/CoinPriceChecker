@@ -2,7 +2,6 @@
 {
     public enum Provider
     {
-        COIN_DESK,
-        COIN_DESK_WEBSITE
+        COIN_DESK
     }
 }

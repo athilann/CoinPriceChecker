@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CoinPriceChecker.Domain\CoinPriceChecker.Domain.csproj" />
+    <ProjectReference Include="..\CoinPriceCheckerApplication\CoinPriceCheckerApplication.csproj" />
   </ItemGroup>
 
 </Project>

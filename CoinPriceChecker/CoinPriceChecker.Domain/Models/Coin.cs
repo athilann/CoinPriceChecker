@@ -7,9 +7,9 @@ namespace CoinPriceChecker.Domain.Models
     public class Coin
     {
         public string Name { get; set; }
-        public string ISO { get; set; }
         public Provider Provider { get; set; }
         public List<PriceIndex> PriceIndexes { get; set; }
+        public string ISO { get; set; }
 
         public Coin()
         {
